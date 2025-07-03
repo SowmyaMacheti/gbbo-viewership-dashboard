@@ -17,7 +17,7 @@ This Tableau project explores the viewership trends of *The Great British Baking
 
 ## 🔗 Dashboard Preview
 
-If you’d like to view the live dashboard on Tableau Public, [click here](https://public.tableau.com/) (Insert your public link here).
+If you’d like to view the live dashboard on Tableau Public, [click here](https://public.tableau.com/app/profile/sowmya.macheti/viz/ViewershipTrends/Sheet1) 
 
 ---
 
